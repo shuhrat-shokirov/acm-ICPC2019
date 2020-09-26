@@ -97,6 +97,9 @@
 		<Unit filename="/home/shuhrat/CLionProjects/1/problems/E/main.cpp">
 			<Option target="1"/>
 		</Unit>
+		<Unit filename="/home/shuhrat/CLionProjects/1/problems/F/main.cpp">
+			<Option target="1"/>
+		</Unit>
 		<Unit filename="/home/shuhrat/CLionProjects/1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
