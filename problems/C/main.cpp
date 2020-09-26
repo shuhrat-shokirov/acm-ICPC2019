@@ -4,7 +4,7 @@ using namespace std;
 
 long long b[100000];
 
-int main() {
+/*int main() {
     //freopen("input.txt", "r", stdin);
     //freopen("output.txt", "w", stdout);
     int n;
@@ -20,4 +20,4 @@ int main() {
         }
     }
     cout << k;
-}
+}*/
