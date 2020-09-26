@@ -224,6 +224,33 @@ problemC/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemC/main.cpp.s
 .PHONY : problemC/main.cpp.s
 
+problemD/main.o: problemD/main.cpp.o
+
+.PHONY : problemD/main.o
+
+# target to build an object file
+problemD/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemD/main.cpp.o
+.PHONY : problemD/main.cpp.o
+
+problemD/main.i: problemD/main.cpp.i
+
+.PHONY : problemD/main.i
+
+# target to preprocess a source file
+problemD/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemD/main.cpp.i
+.PHONY : problemD/main.cpp.i
+
+problemD/main.s: problemD/main.cpp.s
+
+.PHONY : problemD/main.s
+
+# target to generate assembly for a file
+problemD/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemD/main.cpp.s
+.PHONY : problemD/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -242,6 +269,9 @@ help:
 	@echo "... problemC/main.o"
 	@echo "... problemC/main.i"
 	@echo "... problemC/main.s"
+	@echo "... problemD/main.o"
+	@echo "... problemD/main.i"
+	@echo "... problemD/main.s"
 .PHONY : help
 
 

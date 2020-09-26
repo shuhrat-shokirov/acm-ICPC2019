@@ -3,3 +3,9 @@
 
 CMakeFiles/1.dir/problemA/main.cpp.o: ../problemA/main.cpp
 
+CMakeFiles/1.dir/problemB/main.cpp.o: ../problemB/main.cpp
+
+CMakeFiles/1.dir/problemC/main.cpp.o: ../problemC/main.cpp
+
+CMakeFiles/1.dir/problemD/main.cpp.o: ../problemD/main.cpp
+

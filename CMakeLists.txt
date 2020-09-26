@@ -3,4 +3,4 @@ project(1)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(1 problemA/main.cpp problemB/main.cpp problemC/main.cpp)
+add_executable(1 problemA/main.cpp problemB/main.cpp problemC/main.cpp problemD/main.cpp)
