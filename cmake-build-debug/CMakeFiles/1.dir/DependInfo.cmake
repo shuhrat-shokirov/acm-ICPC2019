@@ -9,7 +9,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/shuhrat/CLionProjects/1/problems/C/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/C/main.cpp.o"
   "/home/shuhrat/CLionProjects/1/problems/D/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/D/main.cpp.o"
   "/home/shuhrat/CLionProjects/1/problems/E/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/E/main.cpp.o"
-  "/home/shuhrat/CLionProjects/1/problems/F/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/F/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
