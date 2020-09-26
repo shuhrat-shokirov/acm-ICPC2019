@@ -82,16 +82,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/shuhrat/CLionProjects/1/problemA/main.cpp">
+		<Unit filename="/home/shuhrat/CLionProjects/1/problems/A/main.cpp">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="/home/shuhrat/CLionProjects/1/problemB/main.cpp">
+		<Unit filename="/home/shuhrat/CLionProjects/1/problems/B/main.cpp">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="/home/shuhrat/CLionProjects/1/problemC/main.cpp">
+		<Unit filename="/home/shuhrat/CLionProjects/1/problems/C/main.cpp">
 			<Option target="1"/>
 		</Unit>
-		<Unit filename="/home/shuhrat/CLionProjects/1/problemD/main.cpp">
+		<Unit filename="/home/shuhrat/CLionProjects/1/problems/D/main.cpp">
+			<Option target="1"/>
+		</Unit>
+		<Unit filename="/home/shuhrat/CLionProjects/1/problems/E/main.cpp">
 			<Option target="1"/>
 		</Unit>
 		<Unit filename="/home/shuhrat/CLionProjects/1/CMakeLists.txt">

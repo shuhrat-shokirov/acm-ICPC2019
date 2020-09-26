@@ -143,113 +143,140 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/build
 .PHONY : 1/fast
 
-problemA/main.o: problemA/main.cpp.o
+problems/A/main.o: problems/A/main.cpp.o
 
-.PHONY : problemA/main.o
-
-# target to build an object file
-problemA/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemA/main.cpp.o
-.PHONY : problemA/main.cpp.o
-
-problemA/main.i: problemA/main.cpp.i
-
-.PHONY : problemA/main.i
-
-# target to preprocess a source file
-problemA/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemA/main.cpp.i
-.PHONY : problemA/main.cpp.i
-
-problemA/main.s: problemA/main.cpp.s
-
-.PHONY : problemA/main.s
-
-# target to generate assembly for a file
-problemA/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemA/main.cpp.s
-.PHONY : problemA/main.cpp.s
-
-problemB/main.o: problemB/main.cpp.o
-
-.PHONY : problemB/main.o
+.PHONY : problems/A/main.o
 
 # target to build an object file
-problemB/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemB/main.cpp.o
-.PHONY : problemB/main.cpp.o
+problems/A/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/A/main.cpp.o
+.PHONY : problems/A/main.cpp.o
 
-problemB/main.i: problemB/main.cpp.i
+problems/A/main.i: problems/A/main.cpp.i
 
-.PHONY : problemB/main.i
+.PHONY : problems/A/main.i
 
 # target to preprocess a source file
-problemB/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemB/main.cpp.i
-.PHONY : problemB/main.cpp.i
+problems/A/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/A/main.cpp.i
+.PHONY : problems/A/main.cpp.i
 
-problemB/main.s: problemB/main.cpp.s
+problems/A/main.s: problems/A/main.cpp.s
 
-.PHONY : problemB/main.s
+.PHONY : problems/A/main.s
 
 # target to generate assembly for a file
-problemB/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemB/main.cpp.s
-.PHONY : problemB/main.cpp.s
+problems/A/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/A/main.cpp.s
+.PHONY : problems/A/main.cpp.s
 
-problemC/main.o: problemC/main.cpp.o
+problems/B/main.o: problems/B/main.cpp.o
 
-.PHONY : problemC/main.o
+.PHONY : problems/B/main.o
 
 # target to build an object file
-problemC/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemC/main.cpp.o
-.PHONY : problemC/main.cpp.o
+problems/B/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/B/main.cpp.o
+.PHONY : problems/B/main.cpp.o
 
-problemC/main.i: problemC/main.cpp.i
+problems/B/main.i: problems/B/main.cpp.i
 
-.PHONY : problemC/main.i
+.PHONY : problems/B/main.i
 
 # target to preprocess a source file
-problemC/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemC/main.cpp.i
-.PHONY : problemC/main.cpp.i
+problems/B/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/B/main.cpp.i
+.PHONY : problems/B/main.cpp.i
 
-problemC/main.s: problemC/main.cpp.s
+problems/B/main.s: problems/B/main.cpp.s
 
-.PHONY : problemC/main.s
+.PHONY : problems/B/main.s
 
 # target to generate assembly for a file
-problemC/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemC/main.cpp.s
-.PHONY : problemC/main.cpp.s
+problems/B/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/B/main.cpp.s
+.PHONY : problems/B/main.cpp.s
 
-problemD/main.o: problemD/main.cpp.o
+problems/C/main.o: problems/C/main.cpp.o
 
-.PHONY : problemD/main.o
+.PHONY : problems/C/main.o
 
 # target to build an object file
-problemD/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemD/main.cpp.o
-.PHONY : problemD/main.cpp.o
+problems/C/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/C/main.cpp.o
+.PHONY : problems/C/main.cpp.o
 
-problemD/main.i: problemD/main.cpp.i
+problems/C/main.i: problems/C/main.cpp.i
 
-.PHONY : problemD/main.i
+.PHONY : problems/C/main.i
 
 # target to preprocess a source file
-problemD/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemD/main.cpp.i
-.PHONY : problemD/main.cpp.i
+problems/C/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/C/main.cpp.i
+.PHONY : problems/C/main.cpp.i
 
-problemD/main.s: problemD/main.cpp.s
+problems/C/main.s: problems/C/main.cpp.s
 
-.PHONY : problemD/main.s
+.PHONY : problems/C/main.s
 
 # target to generate assembly for a file
-problemD/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problemD/main.cpp.s
-.PHONY : problemD/main.cpp.s
+problems/C/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/C/main.cpp.s
+.PHONY : problems/C/main.cpp.s
+
+problems/D/main.o: problems/D/main.cpp.o
+
+.PHONY : problems/D/main.o
+
+# target to build an object file
+problems/D/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/D/main.cpp.o
+.PHONY : problems/D/main.cpp.o
+
+problems/D/main.i: problems/D/main.cpp.i
+
+.PHONY : problems/D/main.i
+
+# target to preprocess a source file
+problems/D/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/D/main.cpp.i
+.PHONY : problems/D/main.cpp.i
+
+problems/D/main.s: problems/D/main.cpp.s
+
+.PHONY : problems/D/main.s
+
+# target to generate assembly for a file
+problems/D/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/D/main.cpp.s
+.PHONY : problems/D/main.cpp.s
+
+problems/E/main.o: problems/E/main.cpp.o
+
+.PHONY : problems/E/main.o
+
+# target to build an object file
+problems/E/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/E/main.cpp.o
+.PHONY : problems/E/main.cpp.o
+
+problems/E/main.i: problems/E/main.cpp.i
+
+.PHONY : problems/E/main.i
+
+# target to preprocess a source file
+problems/E/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/E/main.cpp.i
+.PHONY : problems/E/main.cpp.i
+
+problems/E/main.s: problems/E/main.cpp.s
+
+.PHONY : problems/E/main.s
+
+# target to generate assembly for a file
+problems/E/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1.dir/build.make CMakeFiles/1.dir/problems/E/main.cpp.s
+.PHONY : problems/E/main.cpp.s
 
 # Help Target
 help:
@@ -260,18 +287,21 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 1"
-	@echo "... problemA/main.o"
-	@echo "... problemA/main.i"
-	@echo "... problemA/main.s"
-	@echo "... problemB/main.o"
-	@echo "... problemB/main.i"
-	@echo "... problemB/main.s"
-	@echo "... problemC/main.o"
-	@echo "... problemC/main.i"
-	@echo "... problemC/main.s"
-	@echo "... problemD/main.o"
-	@echo "... problemD/main.i"
-	@echo "... problemD/main.s"
+	@echo "... problems/A/main.o"
+	@echo "... problems/A/main.i"
+	@echo "... problems/A/main.s"
+	@echo "... problems/B/main.o"
+	@echo "... problems/B/main.i"
+	@echo "... problems/B/main.s"
+	@echo "... problems/C/main.o"
+	@echo "... problems/C/main.i"
+	@echo "... problems/C/main.s"
+	@echo "... problems/D/main.o"
+	@echo "... problems/D/main.i"
+	@echo "... problems/D/main.s"
+	@echo "... problems/E/main.o"
+	@echo "... problems/E/main.i"
+	@echo "... problems/E/main.s"
 .PHONY : help
 
 

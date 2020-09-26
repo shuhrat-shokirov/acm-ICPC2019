@@ -4,10 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/shuhrat/CLionProjects/1/problemA/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problemA/main.cpp.o"
-  "/home/shuhrat/CLionProjects/1/problemB/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problemB/main.cpp.o"
-  "/home/shuhrat/CLionProjects/1/problemC/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problemC/main.cpp.o"
-  "/home/shuhrat/CLionProjects/1/problemD/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problemD/main.cpp.o"
+  "/home/shuhrat/CLionProjects/1/problems/A/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/A/main.cpp.o"
+  "/home/shuhrat/CLionProjects/1/problems/B/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/B/main.cpp.o"
+  "/home/shuhrat/CLionProjects/1/problems/C/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/C/main.cpp.o"
+  "/home/shuhrat/CLionProjects/1/problems/D/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/D/main.cpp.o"
+  "/home/shuhrat/CLionProjects/1/problems/E/main.cpp" "/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles/1.dir/problems/E/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -77,75 +77,90 @@ include CMakeFiles/1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/1.dir/flags.make
 
-CMakeFiles/1.dir/problemA/main.cpp.o: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/problemA/main.cpp.o: ../problemA/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1.dir/problemA/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problemA/main.cpp.o -c /home/shuhrat/CLionProjects/1/problemA/main.cpp
+CMakeFiles/1.dir/problems/A/main.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/problems/A/main.cpp.o: ../problems/A/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1.dir/problems/A/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problems/A/main.cpp.o -c /home/shuhrat/CLionProjects/1/problems/A/main.cpp
 
-CMakeFiles/1.dir/problemA/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problemA/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problemA/main.cpp > CMakeFiles/1.dir/problemA/main.cpp.i
+CMakeFiles/1.dir/problems/A/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problems/A/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problems/A/main.cpp > CMakeFiles/1.dir/problems/A/main.cpp.i
 
-CMakeFiles/1.dir/problemA/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problemA/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problemA/main.cpp -o CMakeFiles/1.dir/problemA/main.cpp.s
+CMakeFiles/1.dir/problems/A/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problems/A/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problems/A/main.cpp -o CMakeFiles/1.dir/problems/A/main.cpp.s
 
-CMakeFiles/1.dir/problemB/main.cpp.o: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/problemB/main.cpp.o: ../problemB/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/1.dir/problemB/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problemB/main.cpp.o -c /home/shuhrat/CLionProjects/1/problemB/main.cpp
+CMakeFiles/1.dir/problems/B/main.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/problems/B/main.cpp.o: ../problems/B/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/1.dir/problems/B/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problems/B/main.cpp.o -c /home/shuhrat/CLionProjects/1/problems/B/main.cpp
 
-CMakeFiles/1.dir/problemB/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problemB/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problemB/main.cpp > CMakeFiles/1.dir/problemB/main.cpp.i
+CMakeFiles/1.dir/problems/B/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problems/B/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problems/B/main.cpp > CMakeFiles/1.dir/problems/B/main.cpp.i
 
-CMakeFiles/1.dir/problemB/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problemB/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problemB/main.cpp -o CMakeFiles/1.dir/problemB/main.cpp.s
+CMakeFiles/1.dir/problems/B/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problems/B/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problems/B/main.cpp -o CMakeFiles/1.dir/problems/B/main.cpp.s
 
-CMakeFiles/1.dir/problemC/main.cpp.o: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/problemC/main.cpp.o: ../problemC/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/1.dir/problemC/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problemC/main.cpp.o -c /home/shuhrat/CLionProjects/1/problemC/main.cpp
+CMakeFiles/1.dir/problems/C/main.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/problems/C/main.cpp.o: ../problems/C/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/1.dir/problems/C/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problems/C/main.cpp.o -c /home/shuhrat/CLionProjects/1/problems/C/main.cpp
 
-CMakeFiles/1.dir/problemC/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problemC/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problemC/main.cpp > CMakeFiles/1.dir/problemC/main.cpp.i
+CMakeFiles/1.dir/problems/C/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problems/C/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problems/C/main.cpp > CMakeFiles/1.dir/problems/C/main.cpp.i
 
-CMakeFiles/1.dir/problemC/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problemC/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problemC/main.cpp -o CMakeFiles/1.dir/problemC/main.cpp.s
+CMakeFiles/1.dir/problems/C/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problems/C/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problems/C/main.cpp -o CMakeFiles/1.dir/problems/C/main.cpp.s
 
-CMakeFiles/1.dir/problemD/main.cpp.o: CMakeFiles/1.dir/flags.make
-CMakeFiles/1.dir/problemD/main.cpp.o: ../problemD/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/1.dir/problemD/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problemD/main.cpp.o -c /home/shuhrat/CLionProjects/1/problemD/main.cpp
+CMakeFiles/1.dir/problems/D/main.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/problems/D/main.cpp.o: ../problems/D/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/1.dir/problems/D/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problems/D/main.cpp.o -c /home/shuhrat/CLionProjects/1/problems/D/main.cpp
 
-CMakeFiles/1.dir/problemD/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problemD/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problemD/main.cpp > CMakeFiles/1.dir/problemD/main.cpp.i
+CMakeFiles/1.dir/problems/D/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problems/D/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problems/D/main.cpp > CMakeFiles/1.dir/problems/D/main.cpp.i
 
-CMakeFiles/1.dir/problemD/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problemD/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problemD/main.cpp -o CMakeFiles/1.dir/problemD/main.cpp.s
+CMakeFiles/1.dir/problems/D/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problems/D/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problems/D/main.cpp -o CMakeFiles/1.dir/problems/D/main.cpp.s
+
+CMakeFiles/1.dir/problems/E/main.cpp.o: CMakeFiles/1.dir/flags.make
+CMakeFiles/1.dir/problems/E/main.cpp.o: ../problems/E/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/1.dir/problems/E/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1.dir/problems/E/main.cpp.o -c /home/shuhrat/CLionProjects/1/problems/E/main.cpp
+
+CMakeFiles/1.dir/problems/E/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1.dir/problems/E/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/shuhrat/CLionProjects/1/problems/E/main.cpp > CMakeFiles/1.dir/problems/E/main.cpp.i
+
+CMakeFiles/1.dir/problems/E/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1.dir/problems/E/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/shuhrat/CLionProjects/1/problems/E/main.cpp -o CMakeFiles/1.dir/problems/E/main.cpp.s
 
 # Object files for target 1
 1_OBJECTS = \
-"CMakeFiles/1.dir/problemA/main.cpp.o" \
-"CMakeFiles/1.dir/problemB/main.cpp.o" \
-"CMakeFiles/1.dir/problemC/main.cpp.o" \
-"CMakeFiles/1.dir/problemD/main.cpp.o"
+"CMakeFiles/1.dir/problems/A/main.cpp.o" \
+"CMakeFiles/1.dir/problems/B/main.cpp.o" \
+"CMakeFiles/1.dir/problems/C/main.cpp.o" \
+"CMakeFiles/1.dir/problems/D/main.cpp.o" \
+"CMakeFiles/1.dir/problems/E/main.cpp.o"
 
 # External object files for target 1
 1_EXTERNAL_OBJECTS =
 
-1 : CMakeFiles/1.dir/problemA/main.cpp.o
-1 : CMakeFiles/1.dir/problemB/main.cpp.o
-1 : CMakeFiles/1.dir/problemC/main.cpp.o
-1 : CMakeFiles/1.dir/problemD/main.cpp.o
+1 : CMakeFiles/1.dir/problems/A/main.cpp.o
+1 : CMakeFiles/1.dir/problems/B/main.cpp.o
+1 : CMakeFiles/1.dir/problems/C/main.cpp.o
+1 : CMakeFiles/1.dir/problems/D/main.cpp.o
+1 : CMakeFiles/1.dir/problems/E/main.cpp.o
 1 : CMakeFiles/1.dir/build.make
 1 : CMakeFiles/1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable 1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/shuhrat/CLionProjects/1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable 1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
